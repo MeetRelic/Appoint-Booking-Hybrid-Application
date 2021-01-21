@@ -2,9 +2,7 @@
 
 A new Flutter application.
 
-[![FULL STACK APP ](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/embed/LQmeSU6_ES0?start=3" HYBRRID APP IS AWESOME")
-
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 ## Getting Started
 
