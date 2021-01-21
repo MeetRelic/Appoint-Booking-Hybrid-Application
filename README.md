@@ -4,7 +4,7 @@ A new Flutter application.
 
 A Short Recording 
 
-[![ FULL STACK HYBRID APP ]("assets/mq1.png")](https://www.youtube.com/embed/LQmeSU6_ES0?start=3)
+[![ FULL STACK HYBRID APP ]("https://i9.ytimg.com/vi/LQmeSU6_ES0/mq1.jpg?sqp=CODcpoAG&rs=AOn4CLBFskM6QZo-z215N4mzibN3dSlaMA")](https://www.youtube.com/embed/LQmeSU6_ES0?start=3)
 
 ## Getting Started
 
