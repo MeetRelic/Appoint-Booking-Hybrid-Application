@@ -2,7 +2,9 @@
 
 A new Flutter application.
 
-[![IMAGE ALT TEXT HERE](https://i9.ytimg.com/vi/LQmeSU6_ES0/mq1.jpg?sqp=CODcpoAG&rs=AOn4CLBFskM6QZo-z215N4mzibN3dSlaMA)](https://www.youtube.com/embed/LQmeSU6_ES0?start=3)
+A Short Recording 
+
+[![IMAGE ALT TEXT HERE]("assets/mq1.png")](https://www.youtube.com/embed/LQmeSU6_ES0?start=3)
 
 ## Getting Started
 
